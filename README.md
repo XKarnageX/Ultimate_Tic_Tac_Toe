@@ -68,4 +68,8 @@ decide whether a given move is favourable or not. We were not able to
 design heuristics for the game, which would have increased the
 efficiency of decision-making, due to the complexity of the game.
 
+---
 
+#### Developed by Mohammad Taufeeque, Utkarsh Agarwal and Arjun Kashettiwar
+
+---
