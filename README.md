@@ -70,6 +70,6 @@ efficiency of decision-making, due to the complexity of the game.
 
 ---
 
-#### Developed by Mohammad Taufeeque, Utkarsh Agarwal and Arjun Kashettiwar
+#### Developed by [Mohammad Taufeeque](https://github.com/taufeeque9), [Utkarsh Agarwal](https://github.com/Utkarsh0203) and [Arjun Kashettiwar](https://github.com/XKarnageX)
 
 ---
